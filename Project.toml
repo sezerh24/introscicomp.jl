@@ -3,7 +3,11 @@ uuid = "9cc4ad9d-5c8e-4864-9e39-577ccf2bdce2"
 authors = ["sezerh24 <34803300+sezerh24@users.noreply.github.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
 [compat]
+Pluto = "0.20.21"
 julia = "1.6.7"
 
 [extras]
